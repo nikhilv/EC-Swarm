@@ -1,7 +1,8 @@
 EC-Swarm
 ========
 
-ElectricCommander/Perforce Swarm integration
+ElectricCommander/Perforce Swarm integration developed at the Perforce Swarm hackathon
+(http://www.electric-cloud.com/blog/2013/09/25/most-practical-hack-the-perforce-swarm-hackathon/)
 
 - 1. Install the EC-Swarm.jar plugin on your ElectricCommander Server.
 - 2. Setup a Project in Swarm.
