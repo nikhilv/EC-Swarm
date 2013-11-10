@@ -1,0 +1,18 @@
+<exportedData version="39" buildLabel="build_3.5_30434_OPT_2010.01.13_07:32:22" buildVersion="3.5.1.30434">
+  <exportPath>/projects/EC-Swarm-1.0</exportPath>
+  <project>
+    <projectName>EC-Swarm-1.0</projectName>
+    <propertySheet>
+      <property>
+        <propertyName>ec_setup</propertyName>
+        <expandable>0</expandable>
+        <value>if ($promoteAction eq 'promote') {
+
+} elsif ($promoteAction eq 'demote') {
+
+}
+</value>
+      </property>
+    </propertySheet>
+  </project>
+</exportedData>
