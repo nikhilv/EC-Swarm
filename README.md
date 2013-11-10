@@ -9,7 +9,7 @@ ElectricCommander/Perforce Swarm integration
 
 > https://[Commander Server IP]/commander/plugins/EC-Swarm-1.0/cgi-bin/swarm.cgi?change={change}&status={status}&review={review}&project={project}&branch={branch}&pass={pass}&fail={fail}&projectName=Default&procedureName=Swarm&user=[User name to electriccommander]&password=[password]
 
-Fill in the fields marked with < >
+Fill in the fields marked with [ ]
 projectName - Project name that contains the procedure to run upon shelving of code.
 procedureName - Procedure name to execute upon shelving of code.
 user - User name to login to ElectricCommander
